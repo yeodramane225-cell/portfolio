@@ -2,23 +2,23 @@
 Bienvenue sur mon portfolio GitHub.
 Je suis Yeo, Data Engineer spécialisé en :
 
-. NLP et RAG (LangChain, Mistral, FAISS)
+• NLP et RAG (LangChain, Mistral, FAISS)
 
-. Pipelines Data (ETL, ingestion API, automatisation)
+• Pipelines Data (ETL, ingestion API, automatisation)
 
-. Bases de données SQL et NoSQL (SQL Server, PostgreSQL, Oracle, MySQL, MongoDB)
+• Bases de données SQL et NoSQL (SQL Server, PostgreSQL, Oracle, MySQL, MongoDB)
 
-. Cloud (AWS, Azure)
+• Cloud (AWS, Azure)
 
-. Conteneurisation et déploiement (Docker, Docker Compose)
+• Conteneurisation et déploiement (Docker, Docker Compose)
 
-. Orchestration (Kestra, Airflow)
+• Orchestration (Kestra, Airflow)
 
-. Traitement distribué et streaming (Spark, Redpanda)
+• Traitement distribué et streaming (Spark, Redpanda)
 
-. Observabilité et monitoring (ELK : Elasticsearch, Logstash, Kibana)
+• Observabilité et monitoring (ELK : Elasticsearch, Logstash, Kibana)
 
-. Analyse et visualisation (Power BI, Tableau)
+• Analyse et visualisation (Power BI, Tableau)
 
 Ce portfolio regroupe l’ensemble des projets réalisés dans le cadre du parcours Data Engineer ainsi que mes travaux personnels.
 
