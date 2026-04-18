@@ -2,67 +2,67 @@
 Bienvenue sur mon portfolio GitHub.
 Je suis Yeo, Data Engineer spécialisé en :
 
-• NLP et RAG (LangChain, Mistral, FAISS)
+• **NLP et RAG (LangChain, Mistral, FAISS)**
 
-• Pipelines Data (ETL, ingestion API, automatisation)
+• **Pipelines Data (ETL, ingestion API, automatisation)**
 
-• Bases de données SQL et NoSQL (SQL Server, PostgreSQL, Oracle, MySQL, MongoDB)
+• **Bases de données SQL et NoSQL (SQL Server, PostgreSQL, Oracle, MySQL, MongoDB)**
 
-• Cloud (AWS, Azure)
+• **Cloud (AWS, Azure)**
 
-• Conteneurisation et déploiement (Docker, Docker Compose)
+• **Conteneurisation et déploiement (Docker, Docker Compose)**
 
-• Orchestration (Kestra, Airflow)
+• **Orchestration (Kestra, Airflow)**
 
-• Traitement distribué et streaming (Spark, Redpanda)
+• **Traitement distribué et streaming (Spark, Redpanda)**
 
-• Observabilité et monitoring (ELK : Elasticsearch, Logstash, Kibana)
+• **Observabilité et monitoring (ELK : Elasticsearch, Logstash, Kibana)**
 
-• Analyse et visualisation (Power BI, Tableau)
+• **Analyse et visualisation (Power BI, Tableau)**
 
 Ce portfolio regroupe l’ensemble des projets réalisés dans le cadre du parcours Data Engineer ainsi que mes travaux personnels.
 
 # Projets phares
 ## Puls‑Events – MVP Chatbot RAG (Projet 13)
-Technologies : Python, LangChain, Mistral AI, FAISS, Docker
-Compétences : NLP, embeddings, vectorisation, RAG, architecture scalable
-Résultat : MVP complet, architecture conteneurisée, documentation professionnelle
-Lien :  
+**Technologies** : Python, LangChain, Mistral AI, FAISS, Docker
+**Compétences** : NLP, embeddings, vectorisation, RAG, architecture scalable
+**Résultat** : MVP complet, architecture conteneurisée, documentation professionnelle
+**Lien** :  
 https://github.com/yeodramane225-cell/Projet-13-puls-events-rag-assistant-mvp
 
 ## Puls‑Events – POC RAG Assistant (Projet 11)
-Technologies : Python, FAISS, Mistral, LangChain, OpenAgenda API
-Compétences : recherche sémantique, ingestion, preprocessing, intégration NLP
-Résultat : chatbot RAG fonctionnel basé sur une base vectorielle
-Lien :  
+**Technologies** : Python, FAISS, Mistral, LangChain, OpenAgenda API
+**Compétences** : recherche sémantique, ingestion, preprocessing, intégration NLP
+**Résultat** : chatbot RAG fonctionnel basé sur une base vectorielle
+**Lien** :  
 https://github.com/yeodramane225-cell/Projet-11-puls_events_rag_assistant
 
 ## Forecast Data Infrastructure (Projet 8)
-Technologies : Airbyte, DBT, PostgreSQL, AWS RDS, Docker
-Compétences : ingestion multi‑sources, transformation, tests d’intégrité, architecture cloud
-Résultat : pipeline complet et automatisé, données prêtes pour analyse
-Lien :  
+**Technologie**s : Airbyte, DBT, PostgreSQL, AWS RDS, Docker
+**Compétences** : ingestion multi‑sources, transformation, tests d’intégrité, architecture cloud
+**Résultat** : pipeline complet et automatisé, données prêtes pour analyse
+**Lien** :  
 https://github.com/yeodramane225-cell/Projet-8-forecast-data-infrastructure
 
 ## Bottleneck Data Automation (Projet 10)
-Technologies : Python, API, Kestra, SQL, DuckDB
-Compétences : automatisation, orchestration, gestion des dépendances
-Résultat : pipeline orchestré, monitoring et gestion d’erreurs
-Lien :  
+**Technologies** : Python, API, Kestra, SQL, DuckDB
+**Compétences**: automatisation, orchestration, gestion des dépendances
+**Résultat** : pipeline orchestré, monitoring et gestion d’erreurs
+**Lien** :  
 https://github.com/yeodramane225-cell/Projet-10-bottleneck_data_automation
 
 ## NoSQL Database Design (Projet 7)
-Technologies : MongoDB, Mongosh, Compass, Python, Polars
-Compétences : modélisation NoSQL, analyse de données volumineuses
-Résultat : base NoSQL optimisée, requêtes avancées, schéma physique
-Lien :  
+**Technologies** : MongoDB, Mongosh, Compass, Python, Polars
+**Compétences** : modélisation NoSQL, analyse de données volumineuses
+**Résultat** : base NoSQL optimisée, requêtes avancées, schéma physique
+**Lien** :  
 https://github.com/yeodramane225-cell/Projet-7-Design-and-analyze-a-NoSQL-database
 
 ## Energy Consumption Prediction (Projet 6)
-Technologies : Python, Pandas, scikit‑learn, Docker, API
-Compétences : ML supervisé, feature engineering, validation croisée
-Résultat : modèle de prédiction déployé via API
-Lien :  
+**Technologies** : Python, Pandas, scikit‑learn, Docker, API
+**Compétences** : ML supervisé, feature engineering, validation croisée
+**Résultat** : modèle de prédiction déployé via API
+**Lien** :  
 https://github.com/yeodramane225-cell/Projet-6-energy-consumption-prediction-ml
 
 # Liste complète des projets (ordre croissant)
